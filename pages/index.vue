@@ -203,7 +203,7 @@
             <h3>Developer Contributions</h3>
           </div>
 
-          <div
+          <!-- <div
             class="max-w-prose mx-auto my-8 bg-gradient-to-br from-indigo-400 to-purple-500 p-5 shadow rounded-md"
           >
             <svg width="45" height="36" class="mb-5 fill-current text-blue-100">
@@ -214,8 +214,9 @@
 
             <blockquote class="text-3xl text-white italic font-serif">
               <p>
-                There's a few senior developers I work with who specialize in
-                front end dev, and you blow them out of the water with vue
+                Jeffrey is a very earnest developer. He's always helping the
+                other developers with their debugging and providing
+                explanations.
               </p>
             </blockquote>
 
@@ -239,7 +240,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="prose mx-auto">
             <p>

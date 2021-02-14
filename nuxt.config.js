@@ -15,7 +15,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Full-Stack Developer from Malaysia, primarily experienced with Ruby on Rails and Vue.js with multiple publications on NPM and RubyGems.',
+          'Full-Stack Developer from Malaysia, primarily experienced in Ruby on Rails and Vue.js with multiple publications on NPM and RubyGems.',
       },
     ],
     link: [
